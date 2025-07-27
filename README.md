@@ -167,9 +167,7 @@ This optimization shows how indexing can drastically reduce query time, improvin
 
 ---
 ## Author - Kartik Kumar
+ 
 
 
-## Dashboard 
-
-<img src = "Screenshot 2025-07-26 145119.png" />
 
